@@ -175,7 +175,7 @@ const songDetails = {
     artist: "Yatim Fvnky",
     year: "2024",
     bio: "Tak genggem tanganmu, tak elus pipimu, sumebyar jantungku kaya mandek ora mlaku, tak delok mripatmu karo ngomong yen aku tresnoku yo mung kowe, ra ono liyane. Aku ora butuh janji sing muluk-muluk, aku mung pengin dadi wong sing tetep mbok pilih saben dina. Yen sesuk awakmu kesel, ayo leren bareng. Yen ana masalah, ayo dirembug bareng. Oleh nesu, oleh nangis, oleh sambat, nanging ojo nganti lali yen awake dhewe tau janji kanggo saling njaga muga dewe bahagia saklawase.
-Aku iki ora mung pengin nduweni kowe, nanging pengin dadi panggonan paling nyaman kanggo kowe mulih. Mergo tresnaku ora mung kanggo dina iki, nanging kanggo kabeh dina sing isih pengin tak lakoni bareng kowe. Tulusku ora njamin kowe bakal tetep milih aku, nanging paling ora aku ora tau dolanan karo perasaanmu",
+Aku iki ora mung pengin nduweni kowe, nanging pengin dadi panggonan paling nyaman kanggo kowe mulih. Mergo tresnaku ora mung kanggo dina iki, nanging kanggo kabeh dina sing isih pengin tak lakoni bareng kowe. Tulusku ora njamin kowe bakal tetep milih aku, nanging paling ora aku ora tau dolanan karo perasaanmu.",
   },
      "DJ Sigar": {
     artist: "Mocil Fvnky",
