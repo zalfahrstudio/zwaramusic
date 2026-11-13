@@ -170,6 +170,36 @@ const songDetails = {
     bio: "Udah all in for you eh malah bukan diriku yang kamu mau, All in for you, but never enough for you. Aku wis dadi kabeh sing tak iso, nanging jebul dudu aku sing mbok karepke. Mergo sing paling loro kuwi dudu kelangan, tapi wis berjuang sak tenane nanging tetep ora dadi tujuan.
       Lucu ya, aku sibuk memperjuangkan, sementara kamu diam-diam mengharapkan orang lain. Ternyata yang paling sakit bukan kehilangan seseorang, tapi sadar kalau selama ini diriku berjuang sendirian.",
   },
+  
+   "DJ Tulus": {
+    artist: "Yatim Fvnky",
+    year: "2024",
+    bio: "Tak genggem tanganmu, tak elus pipimu, sumebyar jantungku kaya mandek ora mlaku, tak delok mripatmu karo ngomong yen aku tresnoku yo mung kowe, ra ono liyane. Aku ora butuh janji sing muluk-muluk, aku mung pengin dadi wong sing tetep mbok pilih saben dina. Yen sesuk awakmu kesel, ayo leren bareng. Yen ana masalah, ayo dirembug bareng. Oleh nesu, oleh nangis, oleh sambat, nanging ojo nganti lali yen awake dhewe tau janji kanggo saling njaga muga dewe bahagia saklawase.
+Aku iki ora mung pengin nduweni kowe, nanging pengin dadi panggonan paling nyaman kanggo kowe mulih. Mergo tresnaku ora mung kanggo dina iki, nanging kanggo kabeh dina sing isih pengin tak lakoni bareng kowe. Tulusku ora njamin kowe bakal tetep milih aku, nanging paling ora aku ora tau dolanan karo perasaanmu",
+  },
+     "DJ Sigar": {
+    artist: "Mocil Fvnky",
+    year: "",
+    bio: "Tambahkan deskripsi lagu berdasarkan informasi yang sudah kamu verifikasi.",
+  },
+      
+    "DJ Denok": {
+    artist: "Mocil Fvnky",
+    year: "",
+    bio: "Tambahkan deskripsi lagu berdasarkan informasi yang sudah kamu verifikasi.",
+  },
+      
+    "DJ Tresno Liyane": {
+    artist: "Mocil Fvnky",
+    year: "",
+    bio: "Tambahkan deskripsi lagu berdasarkan informasi yang sudah kamu verifikasi.",
+  },
+  
+   "DJ Wirang": {
+    artist: "Mocil Fvnky",
+    year: "",
+    bio: "Tambahkan deskripsi lagu berdasarkan informasi yang sudah kamu verifikasi.",
+  },    
   "Kita Lewati Berdua - Overnight": {
     artist: "Overnight",
     year: "",
