@@ -164,7 +164,13 @@ const categoryNames = {
 
 // TAMBAHKAN DATA DETAIL LAGU DI SINI
 const songDetails = {
-   
+
+  "DJ All In For You": {
+    artist: "Mochil Fvnky",
+    year: "2025",
+    bio: "Wis all in for you, wis berjuang sak kuat-kuate, jebul dudu aku sing mbok karepke; oleh nesu, oleh sambat, nanging ojo nganti ninggal, merga tresno sing tenanan kuwi kudu kuat, dudu mung kuat pas lagi sayang-sayange.",
+  },
+  
   "Kita Lewati Berdua - Overnight": {
     artist: "Overnight",
     year: "",
