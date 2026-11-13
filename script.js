@@ -164,6 +164,12 @@ const categoryNames = {
 
 // TAMBAHKAN DATA DETAIL LAGU DI SINI
 const songDetails = {
+   "DJ All In For You": {
+    artist: "Mocil Fvnky",
+    year: "2025",
+    bio: "Udah all in for you eh malah bukan diriku yang kamu mau, All in for you, but never enough for you. Aku wis dadi kabeh sing tak iso, nanging jebul dudu aku sing mbok karepke. 
+      Lucu ya, aku sibuk memperjuangkan, sementara kamu diam-diam mengharapkan orang lain. Ternyata yang paling sakit bukan kehilangan seseorang, tapi sadar kalau selama ini kita berjuang sendirian.",
+  },
   "Kita Lewati Berdua - Overnight": {
     artist: "Overnight",
     year: "",
