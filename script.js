@@ -495,9 +495,24 @@ async function playSong(index, autoplay = true) {
   miniTitle.textContent = currentSong.title;
   songArtist.textContent = currentSong.artist;
   miniArtist.textContent = currentSong.artist;
-  songCategory.textContent = categoryNames[category];
-  playingStatus.textContent = "Memuat lagu...";
-  renderAffiliateProducts(currentSong);
+  
+songCategory.textContent = categoryNames[category];
+playingStatus.textContent = "Memuat lagu...";
+
+// Tampilkan tahun rilis dan bio lagu
+const songYearEl = document.getElementById("songYear");
+const songBioEl = document.getElementById("songBio");
+
+if (songYearEl) {
+  songYearEl.textContent = currentSong.year || "—";
+}
+
+if (songBioEl) {
+  songBioEl.textContent =
+    currentSong.bio || "Belum ada deskripsi lagu.";
+}
+
+renderAffiliateProducts(currentSong);
 
   coverImg.classList.add("changing");
   setImage(coverImg, currentSong);
