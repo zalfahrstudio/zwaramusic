@@ -37,6 +37,7 @@ const playlists = {
     ["DJ Kalah", "lagu25.mp3", "coverlagu25.png"],
     ["DJ Denok 2", "lagu26.mp3", "coverlagu26.png"],
     ["DJ Raiso Ngapusi 2", "lagu27.mp3", "coverlagu27.png"],
+    ["DJ Bubrah", "lagu28.mp3", "coverlagu28.png"],
   ],
 
   barat: [
